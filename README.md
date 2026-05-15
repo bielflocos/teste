@@ -43,12 +43,6 @@ Atualmente estou criando projetos com JavaScript, TypeScript, APIs e IA.
 
 ![Midia Indoor](https://img.shields.io/badge/MIDIA%20INDOOR-2E8B57?style=for-the-badge) ![Fabricas de Site](https://img.shields.io/badge/FABRICAS%20DE%20SITE-8A2BE2?style=for-the-badge) ![Sistema Hospitalar Sentinela](https://img.shields.io/badge/SISTEMA%20HOSPITALAR%20SENTINELA-FF69B4?style=for-the-badge) ![API Champions](https://img.shields.io/badge/API%20CHAMPIONS-3178C6?style=for-the-badge) ![API Formula 1](https://img.shields.io/badge/API%20FORMULA%201-DC143C?style=for-the-badge) ![API Podcast](https://img.shields.io/badge/API%20PODCAST-3178C6?style=for-the-badge) ![Jogo Mario Kart](https://img.shields.io/badge/JOGO%20MARIO%20KART-DC143C?style=for-the-badge) ![Carrinho Shopee](https://img.shields.io/badge/CARRINHO%20SHOPEE-FF69B4?style=for-the-badge) ![QR Code](https://img.shields.io/badge/QR%20CODE-2E8B57?style=for-the-badge)
 
-### GitHub Statistics
-
-<div>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=silva2852&show_icons=true&theme=radical"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silva2852&layout=compact&theme=radical"/>
-</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=footer"/>
