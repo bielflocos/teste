@@ -1,13 +1,13 @@
 # SILVA2852
 
-Desenvolvedora em formação | Desenvolvimento Web | JavaScript & TypeScript  
+Desenvolvedora em formacao | Desenvolvimento Web | JavaScript & TypeScript  
 Criando projetos, estudando tecnologia e evoluindo um commit por vez.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=header"/>
 
 ### About
 
-Olá! Sou a Silva, estudante de tecnologia e desenvolvimento web.  
+Ola! Sou a Silva, estudante de tecnologia e desenvolvimento web.  
 Atualmente estou criando projetos com JavaScript, TypeScript, APIs e IA.
 
 ### Studying
@@ -15,9 +15,9 @@ Atualmente estou criando projetos com JavaScript, TypeScript, APIs e IA.
 ![JavaScript](https://img.shields.io/badge/JavaScript-ffdf00?style=for-the-badge&logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=fff)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
-![IA](https://img.shields.io/badge/Inteligência%20Artificial-ff69b4?style=for-the-badge)
+![Inteligencia Artificial](https://img.shields.io/badge/Inteligencia%20Artificial-ff69b4?style=for-the-badge)
 
-### Main skills
+### Main Skills
 
 ![Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,git,github,vscode)
 
@@ -25,29 +25,56 @@ Atualmente estou criando projetos com JavaScript, TypeScript, APIs e IA.
 
 ![Tools](https://skillicons.dev/icons?i=vscode,git,github,nodejs)
 
-### Contact me
+### Contact Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-silva2852-181717?style=for-the-badge&logo=github)](https://github.com/silva2852)
 
 ### Projects Developed
 
-#### API Champions
-Projeto em TypeScript para praticar desenvolvimento de APIs.
-
-#### API Formula 1
-API com dados relacionados ao universo da Fórmula 1.
-
-#### API Podcast
-Projeto backend para organização e listagem de podcasts.
-
-#### Jogo Mario Kart
-Jogo desenvolvido em JavaScript durante estudos práticos.
-
-#### Carrinho Shopee
-Simulação de carrinho de compras usando JavaScript.
-
-#### QR Code
-Projeto para geração de QR Code com JavaScript.
+<table>
+  <tr>
+    <td width="50%">
+      <h3>API Champions</h3>
+      <p>Projeto em TypeScript para praticar desenvolvimento de APIs.</p>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/API-FF69B4?style=flat-square"/>
+    </td>
+    <td width="50%">
+      <h3>API Formula 1</h3>
+      <p>API com dados relacionados ao universo da Formula 1.</p>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/API-FF69B4?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>API Podcast</h3>
+      <p>Projeto backend para organizacao e listagem de podcasts.</p>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Backend-8A2BE2?style=flat-square"/>
+    </td>
+    <td width="50%">
+      <h3>Jogo Mario Kart</h3>
+      <p>Jogo desenvolvido em JavaScript durante estudos praticos.</p>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Game-FF69B4?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>Carrinho Shopee</h3>
+      <p>Simulacao de carrinho de compras usando JavaScript.</p>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/E--commerce-FF69B4?style=flat-square"/>
+    </td>
+    <td width="50%">
+      <h3>QR Code</h3>
+      <p>Projeto para geracao de QR Code com JavaScript.</p>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/QR%20Code-8A2BE2?style=flat-square"/>
+    </td>
+  </tr>
+</table>
 
 ### GitHub Statistics
 
