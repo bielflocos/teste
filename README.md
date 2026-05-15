@@ -41,17 +41,7 @@ Atualmente estou criando projetos com JavaScript, TypeScript, APIs e IA.
 
 ### Projects Developed
 
-| Projeto | Descricao | Tecnologias |
-| --- | --- | --- |
-| **Midia Indoor** | Conteudos digitais para telas e ambientes internos. | `JavaScript` `Web` |
-| **Fabricas de Site** | Criacao e organizacao de sites. | `JavaScript` `Front-end` |
-| **Sistema Hospitalar Sentinela** | Sistema para processos hospitalares e gestao de informacoes. | `TypeScript` `Sistema` |
-| **API Champions** | API para praticar desenvolvimento backend. | `TypeScript` `API` |
-| **API Formula 1** | API com dados relacionados a Formula 1. | `TypeScript` `API` |
-| **API Podcast** | Organizacao e listagem de podcasts. | `TypeScript` `Backend` |
-| **Jogo Mario Kart** | Jogo desenvolvido com logica em JavaScript. | `JavaScript` `Game` |
-| **Carrinho Shopee** | Simulacao de carrinho de compras. | `JavaScript` `E-commerce` |
-| **QR Code** | Gerador de QR Code. | `JavaScript` `Tool` |
+![Midia Indoor](https://img.shields.io/badge/MIDIA%20INDOOR-2E8B57?style=for-the-badge) ![Fabricas de Site](https://img.shields.io/badge/FABRICAS%20DE%20SITE-8A2BE2?style=for-the-badge) ![Sistema Hospitalar Sentinela](https://img.shields.io/badge/SISTEMA%20HOSPITALAR%20SENTINELA-FF69B4?style=for-the-badge) ![API Champions](https://img.shields.io/badge/API%20CHAMPIONS-3178C6?style=for-the-badge) ![API Formula 1](https://img.shields.io/badge/API%20FORMULA%201-DC143C?style=for-the-badge) ![API Podcast](https://img.shields.io/badge/API%20PODCAST-3178C6?style=for-the-badge) ![Jogo Mario Kart](https://img.shields.io/badge/JOGO%20MARIO%20KART-DC143C?style=for-the-badge) ![Carrinho Shopee](https://img.shields.io/badge/CARRINHO%20SHOPEE-FF69B4?style=for-the-badge) ![QR Code](https://img.shields.io/badge/QR%20CODE-2E8B57?style=for-the-badge)
 
 ### GitHub Statistics
 
